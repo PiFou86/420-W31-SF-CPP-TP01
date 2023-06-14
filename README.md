@@ -13,7 +13,7 @@
 - Vous devez utiliser Git pour gérer vos sources
 - La structure de votre répertoire racine doit suivre la structure donnée dans le dépôt Git
 - Le code source doit être dans le répertoire « src » et suivre la structure d’un projet Visual Studio avec le gabarit C++
-- Vous devez modifier un fichier README.md contenant :
+- Vous devez modifier un fichier AUTHORS.md contenant :
   - Le prénom, nom et numéro de matricule de chaque personne
   - Le lien de la vidéo sur Youtube
   - Le lien du dépôt GitHub
