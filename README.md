@@ -36,8 +36,7 @@ De manière plus simple, si vous avez suivi les directives de la section 1.1, vo
 - Vous devez fournir une vidéo de 5 minutes illustrant le circuit, le code et le fonctionnement
 - Pour les vidéos :
   - Elles doivent être déposées sur Youtube avec une option de partage « non listée »
-  - Leurs liens doivent être indiqués dans le document word et dans le fichier "AUTHORS.md"
-- Le répertoire "documents" doit contenir votre rapport de TP
+  - Leurs liens doivent être indiqués dans le fichier "AUTHORS.md"
 
 ### 1.4 - Évaluation
 
