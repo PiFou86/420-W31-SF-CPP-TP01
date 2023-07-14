@@ -80,7 +80,7 @@ Le jeu du MasterMind se joue généralement à deux. Il consiste à choisir une 
 - En mode solo, l'ordinateur choisit la combinaison. Le joueur peut revenir en arrière pour corriger ses propositions (Triche)
 - En mode deux joueurs, le premier joueur choisit la combinaison et le second joueur doit la deviner. Une fois trouvée ou lorsque le nombre de coups maximum est atteint le programme propose au deuxième joueur de choisir une nouvelle combinaison ou de quitter le jeu.
 - Le score de chaque joueur est calculé en fonction du nombre de coups utilisés pour trouver la combinaison. Le score est affiché au fur et à mesure du jeu.
-- Le score est calculé de la manière suivante : 10^(nombre de pions dans la combinaison)/(1.1618^(nombre tentatives - 1)). Exemple pour une combinaison de 4 pions, 10000 points si trouvé en 1 coup, 6180 points si trouvé en 2 coups, 3820 points si trouvé en 3 coups, 2361 points si trouvé en 4 coups, etc.
+- Le score est calculé de la manière suivante : 10^(nombre de pions dans la combinaison)/(1.618^(nombre tentatives - 1)). Exemple pour une combinaison de 4 pions, 10000 points si trouvé en 1 coup, 6180 points si trouvé en 2 coups, 3820 points si trouvé en 3 coups, 2361 points si trouvé en 4 coups, etc.
 
 ### 2.2 - Déroulement du jeu
 
