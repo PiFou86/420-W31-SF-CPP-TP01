@@ -70,6 +70,7 @@ Tout partage de code, d'explication, de bouts de texte, etc. est considéré com
 Le jeu du MasterMind se joue généralement à deux. Il consiste à choisir une combinaison de pions de couleur pour le premier joueur et à faire deviner cette combinaison au second joueur. Le second joueur doit deviner la combinaison en un nombre limité de coups. Pour chaque proposition, le premier joueur indique le nombre de pions de la bonne couleur bien placés et le nombre de pions de la bonne couleur mal placés. Le second joueur doit alors faire une nouvelle proposition en tenant compte de ces indications. Le jeu se termine lorsque le second joueur a trouvé la combinaison ou lorsque le nombre de coups maximum est atteint.
 
 ![Photo MasterMind](img/Mastermind.jpg)
+
 (Crédit : [Wikipedia](https://fr.wikipedia.org/wiki/Mastermind))
 
 ### 2.1 - Fonctionnalités
