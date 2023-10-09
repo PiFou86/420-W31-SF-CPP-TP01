@@ -96,7 +96,7 @@ Le jeu du MasterMind se joue généralement à deux. Il consiste à choisir une 
 ### 2.3 - Contraintes
 
 - Le code doit être modulaire et utiliser la POO
-- Le code doit utiliser une liste de combinaisons pour stocker l'historique des coups joués dans la manche actuelle. Cette liste doit utiliser un tableau dynamique tel que vu dans les exercices du cours.
+- Le code doit utiliser une liste de combinaisons pour stocker l'historique des coups joués dans la manche actuelle. Cette liste doit utiliser un tableau dynamique tel que vu dans les exercices du cours et **donc votre implantation de liste**.
 - L'algorithme de détermination du nombre de pions bien/mal placés doit être testé par des tests unitaires
 
 ### 2.4 - Exemple d'exécution
