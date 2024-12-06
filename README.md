@@ -6,7 +6,7 @@
 
 ### 1.1 - Déroulement du TP
 
-- La remise du travail doit être effectuée pour le 12 novembre 2023 à 23:59 avant minuit
+- La remise du travail doit être effectuée pour le 5 janvier 2025 à 23:59 avant minuit
 - Le projet est réalisé en équipe de 2 personnes
 - Vidéo de 5 minutes maximum illustrant la structure du code, l'algorithme de validation des biens/mal placés et le fonctionnement (i.e. démonstration) du jeu
 - Les vidéos doivent être déposées sur Youtube avec une option de partage « non listée »
