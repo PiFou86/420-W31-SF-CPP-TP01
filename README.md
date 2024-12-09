@@ -33,7 +33,7 @@ De manière plus simple, si vous avez suivi les directives de la section 1.1, vo
 - Vous devez remplir le fichier "AUTHORS.md". Il donne le nom et matricule des équipiers, les liens vers la vidéo de présentation et le dépôt Git
 - Votre code source doit être dans le répertoire  ```src``` du présent dépôt Git
 - Le répertoire source doit suivre la structure d'un projet Microsoft pour Visual Studio avec le gabarit C++ (Pas Make/CMAke)
-- Vous devez fournir une vidéo de 5 minutes illustrant le circuit, le code et le fonctionnement
+- Vous devez fournir une vidéo de 5 minutes illustrant le code et le fonctionnement
 - Pour les vidéos :
   - Elles doivent être déposées sur Youtube avec une option de partage « non listée »
   - Leurs liens doivent être indiqués dans le fichier "AUTHORS.md"
