@@ -174,7 +174,7 @@ Merci d'avoir utilisé le programme.
 ### 2.5 - Bonus
 
 - Mode texte couleur pour afficher les couleurs connues de la combinaison de l'historique : 5%
-- Mode graphique : 10% (Exemple : SDL, SFML, etc.)
+- Mode graphique : 10% (Exemple : SFML, SDL, etc.)
 
 ### 3 - Résumé des points
 
